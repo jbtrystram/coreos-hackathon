@@ -1,4 +1,4 @@
-# 2024 Back-to-school CoreOS Hackathon
+# 2024 Halloween CoreOS Hackathon
 
 
 # Introduction
