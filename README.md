@@ -14,6 +14,13 @@ Normal sprint duties outside of customer issues will be put on pause during the 
 - Every member must try to contribute.
 - Have fun!
 
+## Topics
+
+ - AI
+ - Tooling
+ - Efficiency
+ - External
+
 ## Expectations
 - Group of 2 - 4 members work colaboratively for 4 days.
     - Setup a working meeting during timzone overlap to distribute work items for independent work. We recognize that you and your team will not be able to collab for long periods of time.
